@@ -10,9 +10,7 @@
 
 #  🙋‍♂️ Hello
 <div align="center">
-<table>
-  
-<tr><td>
+
 
 ### ⛹️‍♂️ About Me
 
@@ -23,9 +21,6 @@
 <p>&emsp;&emsp;<strong>天行健，君子以自强不息；地势坤，君子以厚德载物</strong></p>
 
 
-</td></tr>
-
-</table>
 </div>
 
 
