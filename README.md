@@ -9,10 +9,10 @@
 </div>
 
 #  🙋‍♂️ Hello
-<div align="center">
-
 
 ### ⛹️‍♂️ About Me
+<div align="center">
+
 
 <img align="right" width="120" src="assets/images/technologist.png" />
 
