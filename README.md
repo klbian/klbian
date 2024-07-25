@@ -47,9 +47,9 @@
 
 <img height="70" width="80" src="assets/images/uni-app.svg">
 <img height="80" width="80" src="assets/images/PaddlePaddle.svg">
-<img height="80" width="80" src="assets/images/c++.svg">
+<img height="80" width="80" src="assets/images/C++.svg">
 <img height="80" width="80" src="assets/images/pytorch.svg">
-<img height="80" width="80" src="assets/images/mysql.svg">
+<img height="80" width="80" src="assets/images/Mysql.svg">
 </div>
 
 
