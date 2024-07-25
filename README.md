@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**klbian/klbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img src="assets/images/pacman.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>&nbsp;</div>
+
+
+</div>
+
+#  🙋‍♂️ Hello
+
+<table>
+  
+<tr><td>
+
+### ⛹️‍♂️ About Me
+
+<img align="right" width="120" src="assets/images/technologist.png" />
+
+<p>&emsp;&emsp;嗨，我是小边同学。目前是一名大学生，热爱编程、摄影、健身。</p>
+<p>&emsp;&emsp;热爱计算机科学、深度学习和计算机视觉，未来希望能成为一名算法工程师。</p>
+<p>&emsp;&emsp;<strong>天行健，君子以自强不息；地势坤，君子以厚德载物</strong></p>
+
+
+</td></tr>
+
+</table>
+
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
+
+
+
+### 💻 Languages and Tools
+<div align="center" >
+
+<img src="https://skillicons.dev/icons?i=anaconda,idea,git,github,vscode,ps,linux,nginx" /><br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,pytorch,vue,css,html,js,mysql" /><br>
+
+
+<br>
+
+<img height="80" width="80" src="assets/images/c.webp">
+<img height="80" width="80" src="assets/images/java.svg">
+<img height="80" width="80" src="assets/images/vue.webp">
+<img height="80" width="80" src="assets/images/springboot.svg">
+<img height="80" width="80" src="assets/images/python.webp">
+
+<img height="70" width="80" src="assets/images/uni-app.svg">
+<img height="80" width="80" src="assets/images/PaddlePaddle.svg">
+<img height="80" width="80" src="assets/images/c++.svg">
+<img height="80" width="80" src="assets/images/pytorch.svg">
+<img height="80" width="80" src="assets/images/mysql.svg">
+</div>
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
+<div align="center">
+<img src="assets/images/icon.png" /></div>
+</div>
