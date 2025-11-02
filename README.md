@@ -16,8 +16,8 @@
 
 <img align="right" width="120" src="assets/images/technologist.png" />
 
-<p>&emsp;&emsp;嗨，我是小边同学。目前是一名大学生，热爱编程、摄影、健身。</p>
-<p>&emsp;&emsp;热爱计算机科学、深度学习和计算机视觉，未来希望能成为一名算法工程师。</p>
+<p>&emsp;&emsp;嗨，我是Kyrie。是一名研究生，热爱编程、摄影、健身。</p>
+<p>&emsp;&emsp;目前研究方向为大语言模型和Agent，未来希望能成为一名算法工程师。</p>
 <p>&emsp;&emsp;<strong>天行健，君子以自强不息；地势坤，君子以厚德载物</strong></p>
 
 
